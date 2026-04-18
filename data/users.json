@@ -1,44 +1,112 @@
 [
   {
-    "_id": "64f004d4d4d4d4d4d4d4d4d4",
-    "name": "Diana",
-    "email": "diana@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56d8"
+    },
+    "name": "User 1",
+    "email": "user1@example.com",
     "password": "password123",
-    "createdAt": "2024-05-09T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-04T14:23:26.223Z"
+    }
   },
   {
-    "_id": "64f005e5e5e5e5e5e5e5e5e5",
-    "name": "Ethan",
-    "email": "ethan@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56d9"
+    },
+    "name": "User 2",
+    "email": "user2@example.com",
     "password": "password123",
-    "createdAt": "2023-08-21T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-13T10:01:23.721Z"
+    }
   },
   {
-    "_id": "64f006f6f6f6f6f6f6f6f6f6",
-    "name": "Fiona",
-    "email": "fiona@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56da"
+    },
+    "name": "User 3",
+    "email": "user3@example.com",
     "password": "password123",
-    "createdAt": "2024-02-17T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-06T09:37:30.955Z"
+    }
   },
   {
-    "_id": "64f007a7a7a7a7a7a7a7a7a7",
-    "name": "George",
-    "email": "george@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56db"
+    },
+    "name": "User 4",
+    "email": "user4@example.com",
     "password": "password123",
-    "createdAt": "2025-04-11T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-14T19:39:19.434Z"
+    }
   },
   {
-    "_id": "64f008b8b8b8b8b8b8b8b8b8",
-    "name": "Hannah",
-    "email": "hannah@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56dc"
+    },
+    "name": "User 5",
+    "email": "user5@example.com",
     "password": "password123",
-    "createdAt": "2023-03-28T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-06T16:04:17.373Z"
+    }
   },
   {
-    "_id": "64f009c9c9c9c9c9c9c9c9c9",
-    "name": "Ian",
-    "email": "ian@example.com",
+    "_id": {
+      "$oid": "69e306475a130daa660c56dd"
+    },
+    "name": "User 6",
+    "email": "user6@example.com",
     "password": "password123",
-    "createdAt": "2024-11-02T00:00:00Z"
+    "createdAt": {
+      "$date": "2026-03-24T21:30:30.632Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e306475a130daa660c56de"
+    },
+    "name": "User 7",
+    "email": "user7@example.com",
+    "password": "password123",
+    "createdAt": {
+      "$date": "2026-03-02T18:53:29.571Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e306475a130daa660c56df"
+    },
+    "name": "User 8",
+    "email": "user8@example.com",
+    "password": "password123",
+    "createdAt": {
+      "$date": "2026-03-03T02:54:04.370Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e306475a130daa660c56e0"
+    },
+    "name": "User 9",
+    "email": "user9@example.com",
+    "password": "password123",
+    "createdAt": {
+      "$date": "2026-04-11T22:27:30.998Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69e306475a130daa660c56e1"
+    },
+    "name": "User 10",
+    "email": "user10@example.com",
+    "password": "password123",
+    "createdAt": {
+      "$date": "2026-03-26T00:40:10.987Z"
+    }
   }
 ]
