@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "64f10a1a1a1a1a1a1a1a1a1a",
+    "name": "programming",
+    "description": "Everything about software development and coding.",
+    "author": "64f004d4d4d4d4d4d4d4d4d4",
+    "createdAt": "2023-06-12T00:00:00Z"
+  },
+  {
+    "_id": "64f10b2b2b2b2b2b2b2b2b2b",
+    "name": "devops",
+    "description": "DevOps practices, tooling, and culture.",
+    "author": "64f005e5e5e5e5e5e5e5e5e5",
+    "createdAt": "2024-01-25T00:00:00Z"
+  },
+  {
+    "_id": "64f10c3c3c3c3c3c3c3c3c3c",
+    "name": "uxdesign",
+    "description": "User experience, design systems, and research.",
+    "author": "64f006f6f6f6f6f6f6f6f6f6",
+    "createdAt": "2025-02-10T00:00:00Z"
+  },
+  {
+    "_id": "64f10d4d4d4d4d4d4d4d4d4d",
+    "name": "webdev",
+    "description": "Frontend frameworks, HTML, CSS, JavaScript discussions.",
+    "author": "64f007a7a7a7a7a7a7a7a7a7",
+    "createdAt": "2025-05-01T00:00:00Z"
+  },
+  {
+    "_id": "64f10e5e5e5e5e5e5e5e5e5e",
+    "name": "machinelearning",
+    "description": "Talk about ML, AI, deep learning, and data science.",
+    "author": "64f008b8b8b8b8b8b8b8b8b8",
+    "createdAt": "2024-07-15T00:00:00Z"
+  },
+  {
+    "_id": "64f10f6f6f6f6f6f6f6f6f6f",
+    "name": "cloudcomputing",
+    "description": "AWS, Azure, GCP, and all things cloud.",
+    "author": "64f009c9c9c9c9c9c9c9c9c9",
+    "createdAt": "2023-11-08T00:00:00Z"
+  }
+]

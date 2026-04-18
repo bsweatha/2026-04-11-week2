@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "64f004d4d4d4d4d4d4d4d4d4",
+    "name": "Diana",
+    "email": "diana@example.com",
+    "password": "password123",
+    "createdAt": "2024-05-09T00:00:00Z"
+  },
+  {
+    "_id": "64f005e5e5e5e5e5e5e5e5e5",
+    "name": "Ethan",
+    "email": "ethan@example.com",
+    "password": "password123",
+    "createdAt": "2023-08-21T00:00:00Z"
+  },
+  {
+    "_id": "64f006f6f6f6f6f6f6f6f6f6",
+    "name": "Fiona",
+    "email": "fiona@example.com",
+    "password": "password123",
+    "createdAt": "2024-02-17T00:00:00Z"
+  },
+  {
+    "_id": "64f007a7a7a7a7a7a7a7a7a7",
+    "name": "George",
+    "email": "george@example.com",
+    "password": "password123",
+    "createdAt": "2025-04-11T00:00:00Z"
+  },
+  {
+    "_id": "64f008b8b8b8b8b8b8b8b8b8",
+    "name": "Hannah",
+    "email": "hannah@example.com",
+    "password": "password123",
+    "createdAt": "2023-03-28T00:00:00Z"
+  },
+  {
+    "_id": "64f009c9c9c9c9c9c9c9c9c9",
+    "name": "Ian",
+    "email": "ian@example.com",
+    "password": "password123",
+    "createdAt": "2024-11-02T00:00:00Z"
+  }
+]

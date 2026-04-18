@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "64f301d4d4d4d4d4d4d4d4d4",
+    "title": "CI/CD tools comparison?",
+    "content": "What's your take on CircleCI vs GitHub Actions vs GitLab CI?",
+    "subreddit": "64f10b2b2b2b2b2b2b2b2b2b",
+    "author": "64f004d4d4d4d4d4d4d4d4d4",
+    "upvotes": 2,
+    "downvotes": 0,
+    "voteCount": 2,
+    "createdAt": "2024-03-05T10:30:00Z"
+  },
+  {
+    "_id": "64f302e5e5e5e5e5e5e5e5e5",
+    "title": "Design systems in Figma",
+    "content": "How do you organize components and tokens for scalability?",
+    "subreddit": "64f10c3c3c3c3c3c3c3c3c3c",
+    "author": "64f005e5e5e5e5e5e5e5e5e5",
+    "upvotes": 1,
+    "downvotes": 1,
+    "voteCount": 0,
+    "createdAt": "2025-03-10T14:15:00Z"
+  },
+  {
+    "_id": "64f303f6f6f6f6f6f6f6f6f6",
+    "title": "Getting started with Go for backend",
+    "content": "Is Go a good alternative to Node.js for scalable backends?",
+    "subreddit": "64f10a1a1a1a1a1a1a1a1a1a",
+    "author": "64f006f6f6f6f6f6f6f6f6f6",
+    "upvotes": 0,
+    "downvotes": 2,
+    "voteCount": -2,
+    "createdAt": "2025-06-07T09:45:00Z"
+  },
+  {
+    "_id": "64f304a7a7a7a7a7a7a7a7a7",
+    "title": "Best CSS-in-JS libraries?",
+    "content": "Is Emotion still relevant or has Tailwind taken over?",
+    "subreddit": "64f10d4d4d4d4d4d4d4d4d4d",
+    "author": "64f007a7a7a7a7a7a7a7a7a7",
+    "upvotes": 1,
+    "downvotes": 0,
+    "voteCount": 1,
+    "createdAt": "2025-05-15T16:20:00Z"
+  },
+  {
+    "_id": "64f305b8b8b8b8b8b8b8b8b8",
+    "title": "Explain backpropagation",
+    "content": "Can someone explain backpropagation in plain English?",
+    "subreddit": "64f10e5e5e5e5e5e5e5e5e5e",
+    "author": "64f008b8b8b8b8b8b8b8b8b8",
+    "upvotes": 2,
+    "downvotes": 0,
+    "voteCount": 2,
+    "createdAt": "2024-11-13T11:00:00Z"
+  },
+  {
+    "_id": "64f306c9c9c9c9c9c9c9c9c9",
+    "title": "Is GCP catching up to AWS?",
+    "content": "I feel GCP is making moves. Thoughts?",
+    "subreddit": "64f10f6f6f6f6f6f6f6f6f6f",
+    "author": "64f009c9c9c9c9c9c9c9c9c9",
+    "upvotes": 1,
+    "downvotes": 1,
+    "voteCount": 0,
+    "createdAt": "2024-01-22T13:30:00Z"
+  },
+  {
+    "_id": "64f306c9c9c9c9c9c9c9eeee",
+    "title": "Azure vs AWS",
+    "content": "I feel Azure is better for enterprise deployments. What are your thoughts?",
+    "subreddit": "64f10f6f6f6f6f6f6f6f6f6f",
+    "author": "64f009c9c9c9c9c9c9c9c9c9",
+    "upvotes": 1,
+    "downvotes": 1,
+    "voteCount": 0,
+    "createdAt": "2024-02-05T08:45:00Z"
+  }
+]

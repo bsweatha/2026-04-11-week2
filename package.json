@@ -1,0 +1,17 @@
+{
+  "name": "threadhive-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "queries": "node queries.js",
+    "populate": "node populate_db.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.16.0"
+  }
+}
